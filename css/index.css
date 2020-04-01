@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.botoes {
+    width: 940px;
+}
+
+.logo {
+    height: 92;
+    width: 272;
+}
+
+.botao-m {
+    background-color: #f2f2f2;
+    width: 140px;
+    height: 36px;
+    border-radius: 5%;
+}
+
+.botao-m a{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.footer {
+    background-color: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    padding: 10px;
+}
