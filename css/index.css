@@ -21,7 +21,6 @@ header {
     right: 0;
     top: 50%;
     padding: 0 30px;
-    width: 248.83px;
     height: 30px;
     transform: translateY(50%);
     font-size: 13px;
@@ -31,27 +30,34 @@ header {
     display: inline;
 }
 
+.menu-superior a {
+    text-decoration: none;
+}
+
+.menu-superior a:hover {
+    text-decoration: underline;
+}
+
 .user-img-box {
-    padding: 0 0 0 15px;
+    padding: 0 0 0 13px;
     display: inline;
 }
 
 .user-img {
-    width: 30px;
-    height: 30px;
+    width: 32px;
+    height: 32px;
     border-radius: 15px;
 }
 
 .gmail {
     padding: 0 15px 0 0;
     color: #000000de;
-
+    bottom: 50%;
 }
 
 .imagens {
     padding: 0 15px 0 0;
     color: #000000de;
-
 }
 
 .menu-icone {
