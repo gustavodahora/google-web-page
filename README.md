@@ -1,4 +1,6 @@
-![](img/google-page.png)
+<p align="center">
+  <img src="img/google-page.png">
+</p>
 
 # Google page
 
