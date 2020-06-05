@@ -1,3 +1,5 @@
+![](img/google-page.png)
+
 # Google page
 
 The purpose of this repository is to create a copy of the official google page in the current version, with the intention of improving basic concepts of CSS, HTML and JS. It can be changed if major changes happen on the [Google page](https://www.google.com). 
