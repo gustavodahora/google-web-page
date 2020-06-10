@@ -12,25 +12,27 @@ header {
 }
 
 .menu {
-    position: relative;
     font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 20px;
 }
 
 .menu-superior {
-    position: absolute;
-    right: 0;
-    top: 50%;
-    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
     height: 30px;
-    transform: translateY(50%);
     font-size: 13px;
+    width: 220px;
 }
 
 .menu-superior p,img {
     display: inline;
 }
 
-.menu-superior a {
+.menu-superior .menu-link {
     text-decoration: none;
 }
 
